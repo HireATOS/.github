@@ -49,7 +49,7 @@ We welcome contributions to help improve Hire ATOS. Here's how you can get invol
 ## Contact Us
 
 Have questions or need support? Reach out to us:
-- **Email**: hello@hireatos.com
+- **Email**: hello@hireatos.org
 - **Twitter**: [@Hire_ATOS](https://twitter.com/Hire_ATOS)
 - **LinkedIn**: [Hire ATOS](https://linkedin.com/company/hire-atos)
 
