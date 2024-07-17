@@ -51,7 +51,7 @@ We welcome contributions to help improve Hire ATOS. Here's how you can get invol
 Have questions or need support? Reach out to us:
 - **Email**: hello@hireatos.com
 - **Twitter**: [@Hire_ATOS](https://twitter.com/Hire_ATOS)
-- **LinkedIn**: [Hire ATOS](https://linkedin.com/company/hireatos)
+- **LinkedIn**: [Hire ATOS](https://linkedin.com/company/hire-atos)
 
 ## License
 
